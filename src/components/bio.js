@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> She lives and works in New York
-        and makes animated things!
+        Written by <strong>{author}</strong>. Currently lives and works in Long Island, New York. She builds things with code
+        and makes things move with animation and motion graphics!
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow her on Twitter

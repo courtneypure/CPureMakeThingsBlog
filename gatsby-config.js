@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Courtney Makes Things Move`,
     author: `Courtney Pure`,
-    description: `A programming and animation blog by Courtney Pure`,
+    description: `A programming and animation blog by Courtney Pure.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `courtneypure`,
