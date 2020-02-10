@@ -1,5 +1,5 @@
 ---
-title: Book Review: Hidden Figures by Margot Lee Shetterly
+title: Book Review - Hidden Figures by Margot Lee Shetterly
 date: "2020-02-10"
 description: My thoughts on the African-American women who made history at NACA (later NASA).
 ---
