@@ -38,4 +38,4 @@ I have recently learned that there is a position called assistant technical dire
 
 Over the next few weeks, month, you will see my portfolio as well as my blog posts start to change into more specifics of animation and code.  I hope you will find these posts helpful and enjoyable!
 
-To view screenshots of my build, visit my [instagram](https://www.instagram.com/courtneypure/)!
+To view screenshots of my build, visit my [instagram](https://www.instagram.com/courtneypure/)!  This post is also available on [my Dev.to blog](https://dev.to/courtneypure/first-impressions-maya-hard-shapes-modeling-481) so be sure to give a it a like if you enjoyed it!
