@@ -1,5 +1,5 @@
 ---
-title: How social media has shaped art creation output: Is it burning us out, making us better artists or both?
+title: How social media has shaped art creation output - Is it burning us out, making us better artists or both?
 date: "2022-02-07"
 description: Are we putting too much pressure on ourselves to constantly make things?
 ---
