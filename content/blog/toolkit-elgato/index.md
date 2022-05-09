@@ -14,7 +14,7 @@ I was sold. Unlike the other macropads I felt the Stream Deck would give me more
 
 I created three profiles for mine; one for After Effects, Illustrator, and Photoshop. Here is the layout of my AE profile.
 
-![Layout of Stream Deck for my After Effects profile](./stream-deck.png)
+![Stream Deck layout for my After Effects profile](./stream-deck.png)
 
 Starting with the top row I of course have a Save button. I do have auto-save set in Ae but I don’t rely on it. I have a save current frame, pre-compose, and copy, pasta(paste) preset which are all pretty much self explanatory. Row two is where the magic happens for me. All my hotkey favorites live here and it has been a big solve for the twirl down menus. I have a set keyframe option for position, scale, rotation and opacity. I can now just scroll the timeline and with a push of a button add a keyframe to that property! It cuts down a lot on the set up of keyframes and removes the action of using multiple keystrokes. And last in row three I have cut layer, add marker, easy ease, and select all. This did take some time for me to memorize the layout but to help with that transition, in my other profiles I try to keep the same hotkeys like save, copy, and paste in the same place.
 
