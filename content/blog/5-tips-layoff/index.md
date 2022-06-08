@@ -1,6 +1,6 @@
 ---
 title: 5 Tips on How To Move Forward After Being Laid Off
-date: "2022-06-07"
+date: "2022-06-09"
 description: Techniques I've learned over the years on how to move forward during tough times.
 ---
 
