@@ -4,7 +4,7 @@ date: "2022-06-07"
 description: Techniques I've learned over the years on how to move forward during tough times.
 ---
 
-Last month I was [part of a mass layoff](https://techcrunch.com/2022/05/12/professor-scott-galloways-edtech-startup-section-4-lay-offs/), and unfortunately, this is not the first time in my career that this has happened. Whenever I am going through this process, having to revise my job profiles, resume, and demo reel is the last thing I want to do because being laid off sucks. Over the past few years, I have developed techniques to help me stay productive during these times. Here are five unconventional tips that will focus on the mental aspects of how to stay productive after losing your job.
+Last month I was [part of a mass layoff](https://techcrunch.com/2022/05/12/professor-scott-galloways-edtech-startup-section-4-lay-offs/), and unfortunately, this is not the first time in my career that this has happened. Whenever I am going through this process, having to revise my job profiles, resume, and demo reel is the last thing I want to do because being laid off sucks. Over the past few years, I have developed techniques to help me stay productive during these times. Here are five unconventional tips that will focus on the mental aspects of how to move forward after losing your job.
 
 ### 1. Allow yourself to feel the loss.
 It is true when they say the people make the company. What disappointed me the most about this layoff was recognizing that I wouldn't see my coworkers daily. Those first two weeks felt weird, but thankfully there was a Slack created to help each other through this difficult time and share any job postings we came across.
