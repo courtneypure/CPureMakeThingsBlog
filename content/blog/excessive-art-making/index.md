@@ -6,7 +6,7 @@ description: Are we putting too much pressure on ourselves to constantly make th
 
 In my recent newsletter I talked about how I was reevaluating how I use social networks.  The constant posting started to feel like I was just checking off the box to make sure I stayed consistent with my “online presence.”  There seems to be this imaginary pull with social networks to always produce since we are all constantly vying for the attention. I watch a lot of youtube and folks will post as much as twice a week, which if you add that up over 52 weeks, that’s 104 videos a year!  For most, this is not even their full time job.
 
-For me, once I started to feel burnt out and underwhelmed with the art I was producing I knew I had to make a change.  With this shift in mindset a question popped into my head:
+For me, once I started to feel burnt out and underwhelmed with the art I was producing I knew I had to make a change.  With this shift in mindset a question popped into my head\:
 
 How many art pieces did some of my favorite artists make in their lifetime?
 
